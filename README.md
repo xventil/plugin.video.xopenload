@@ -1,4 +1,4 @@
-# xopenloadUnofficial
+# Xopenload Unofficial
 Kodi Addon for Xopenload - Unofficial
 
 
@@ -7,8 +7,8 @@ it´s a unofficial version and not supported or endorsed by the website.
 
 for now the addon supports;
 
- Multiple providers
- browse with categories
+ - Multiple providers
+ - Browse with categories
  
  
  In Progress:
