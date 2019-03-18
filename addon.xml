@@ -1,10 +1,11 @@
-<addon id="plugin.video.xopenload" name="XopenLoad" provider-name="Rodrigo Lopes" version="0.6.2">   
+<addon id="plugin.video.testes" name="testes" provider-name="Rodrigo Lopes" version="0.7.5">   
  <requires>   
     <import addon="xbmc.python" version="2.14.0"/>
     <import addon="script.module.urlresolver"/>
     <import addon="script.module.simplejson" version="3.3.0"/>
     <import addon="script.module.t0mm0.common" />
     <import addon="script.module.beautifulsoup4" version="4.3.2"/> 
+	<import addon="script.module.requests" version="2.19.1"/>
  </requires>   
  <extension library="addon.py" point="xbmc.python.pluginsource">   
   <provides>video</provides>   
@@ -12,8 +13,8 @@
  <extension point="xbmc.addon.metadata">   
   <language>en</language>   
   <platform>all</platform>   
-  <summary lang="en">XopenLoad</summary>   
-  <description lang="en">XopenLoad UnOfficial</description>   
+  <summary lang="en">testes</summary>   
+  <description lang="en">testes</description>   
   <platform>all</platform>   
  </extension>   
 </addon>  
